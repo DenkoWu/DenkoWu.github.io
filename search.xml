@@ -14,7 +14,7 @@
   <entry>
     <title><![CDATA[Android开发常用]]></title>
     <url>%2F2017%2F12%2F05%2FAndroid%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%2F</url>
-    <content type="text"><![CDATA[EditText1.1 明文与密文123456// 密文显示TransformationMethod method = PasswordTransformationMethod.getInstance();etLoginPassword.setTransformationMethod(method);// 明文显示HideReturnsTransformationMethod method = HideReturnsTransformationMethod.getInstance();etLoginPassword.setTransformationMethod(method); 1.2 默认不获取焦点父容器设置（其实只要布局内有一个控件设置就可以）1android:focusableInTouchMode="true" 1.3 中间有空格的需求class pygments.lexers.jvmMDN Documentation1234 // 密文显示 public void main()&#123; system.out.printf("hello word");&#125; Discover if a number is primeSource Article123public void main()&#123; system.out.printf("hello word");&#125; 123 public void main()&#123; system.out.printf("hello word");&#125; TextView2.1 富文本]]></content>
+    <content type="text"><![CDATA[EditText1.1 明文与密文123456// 密文显示TransformationMethod method = PasswordTransformationMethod.getInstance();etLoginPassword.setTransformationMethod(method);// 明文显示HideReturnsTransformationMethod method = HideReturnsTransformationMethod.getInstance();etLoginPassword.setTransformationMethod(method); 1.2 默认不获取焦点父容器设置（其实只要布局内有一个控件设置就可以）1android:focusableInTouchMode="true" 1.3 中间有空格的需求]]></content>
       <categories>
         <category>Android</category>
       </categories>
